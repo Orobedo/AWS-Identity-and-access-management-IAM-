@@ -43,20 +43,19 @@ Click on attach policies directly and tick on the policy you want the user to ha
 <img src="https://i.imgur.com/tXBwdzR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Then configure alerts by selecting 'Add alert threshold'  <br/>
-<img src="https://i.imgur.com/lsFC7Gk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Add Tags for proper description, Optional in my case i didnt add tags then click on 'Next:Review" <br/>
+<img src="https://i.imgur.com/tNUveZI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Set the percentage of your threshold, In my case I set it to 80% so When your actual cost is greater than 80.00% ($0.80) of your budgeted amount ($1.00), the alert threshold will be exceeded,Also input an E-mail that would be notified if you have exceeded your threshold.. After that click on 'Next'  <br/>
-<img src="https://i.imgur.com/YM7fnf8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Review all that you've inputed and click on "Create User" if satisfied  <br/>
+<img src="https://i.imgur.com/fRr9JHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Review all you have inputed if correct scroll down and click on 'Create Budget'  <br/>
-<img src="https://i.imgur.com/FvrkLiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ User successfuly created and Permission granted!. Ensure to click on "Download .csv" to get the direct link for log in for the user or  better still send as E-mail directly to the Employee  <br/>
+<img src="https://i.imgur.com/vr61DfO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Budget successfully created!:  <br/>
-<img src="https://i.imgur.com/tYKXCYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
